@@ -1,0 +1,4 @@
+python
+langchain
+open_api_key
+streamlit
